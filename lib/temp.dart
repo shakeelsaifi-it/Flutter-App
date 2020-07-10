@@ -62,6 +62,8 @@ class _ActivityState extends State<Activity> {
                         style: TextStyle(color: Colors.black),
                       )
                     : Container(),
+
+
                 SizedBox(
                   height: 20,
                 ),
